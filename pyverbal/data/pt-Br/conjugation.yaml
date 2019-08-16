@@ -1,0 +1,275 @@
+# www.conjugacao.com.br/terminacoes-verbais/
+indicativo:
+  presente:
+    ar:
+      eu: o
+      tu: as
+      ele: a
+      nos: amos
+      vos: ais
+      eles: am
+    er:
+      eu: o
+      tu: es
+      ele: e
+      nos: emos
+      vos: eis
+      eles: em
+    ir:
+      eu: o
+      tu: es
+      ele: e
+      nos: imos
+      vos: is
+      eles: em
+  preterito_imperfeito:
+    ar:
+      eu: ava
+      tu: avas
+      ele: ava
+      nos: ávamos
+      vos: áveis
+      eles: avam
+    er:
+      eu: ia
+      tu: ias
+      ele: ia
+      nos: íamos
+      vos: íeis
+      eles: iam
+    ir:
+      eu: ia
+      tu: ias
+      ele: ia
+      nos: íamos
+      vos: íeis
+      eles: iam
+  preterito_perfeito:
+    ar:
+      eu: ei
+      tu: aste
+      ele: ou
+      nos: amos
+      vos: astes
+      eles: aram
+    er:
+      eu: i
+      tu: este
+      ele: eu
+      nos: emos
+      vos: estes
+      eles: eram
+    ir:
+      eu: i
+      tu: iste
+      ele: iu
+      nos: imos
+      vos: istes
+      eles: iram
+  preterito_mais_que_perfeito:
+    ar:
+      eu: ara
+      tu: aras
+      ele: ara
+      nos: áramos
+      vos: áreis
+      eles: aram
+    er:
+      eu: era
+      tu: eras
+      ele: era
+      nos: êramos
+      vos: êreis
+      eles: eram
+    ir:
+      eu: ira
+      tu: iras
+      ele: ira
+      nos: íramos
+      vos: íreis
+      eles: iram
+  futuro_presente:
+    ar:
+      eu: arei
+      tu: arás
+      ele: ará
+      nos: aremos
+      vos: areis
+      eles: arão
+    er:
+      eu: erei
+      tu: erás
+      ele: erá
+      nos: eremos
+      vos: ereis
+      eles: erão
+    ir:
+      eu: irei
+      tu: irás
+      ele: irá
+      nos: iremos
+      vos: ireis
+      eles: irão
+  futuro_preterito:
+    ar:
+      eu: aria
+      tu: arias
+      ele: aria
+      nos: aríamos
+      vos: aríeis
+      eles: ariam
+    er:
+      eu: eria
+      tu: erias
+      ele: eria
+      nos: eríamos
+      vos: eríeis
+      eles: eriam
+    ir:
+      eu: iria
+      tu: irias
+      ele: iria
+      nos: iríamos
+      vos: iríeis
+      eles: iriam
+subjuntivo:
+  presente:
+    ar:
+      eu: e
+      tu: es
+      ele: e
+      nos: emos
+      vos: eis
+      eles: em
+    er:
+      eu: a
+      tu: as
+      ele: a
+      nos: amos
+      vos: ais
+      eles: am
+    ir:
+      eu: a
+      tu: as
+      ele: a
+      nos: amos
+      vos: ais
+      eles: am
+  preterito:
+    ar:
+      eu: asse
+      tu: asses
+      ele: asse
+      nos: ássemos
+      vos: ásseis
+      eles: assem
+    er:
+      eu: esse
+      tu: esses
+      ele: esse
+      nos: êssemos
+      vos: êsseis
+      eles: essem
+    ir:
+      eu: isse
+      tu: isses
+      ele: isse
+      nos: íssemos
+      vos: ísseis
+      eles: issem
+  futuro:
+    ar:
+      eu: ar
+      tu: ares
+      ele: ar
+      nos: armos
+      vos: ardes
+      eles: arem
+    er:
+      eu: er
+      tu: eres
+      ele: er
+      nos: ermos
+      vos: erdes
+      eles: erem
+    ir:
+      eu: ir
+      tu: ires
+      ele: ir
+      nos: irmos
+      vos: irdes
+      eles: irem
+imperativo:
+  afirmativo:
+    ar:
+      tu: a
+      ele: e
+      nos: emos
+      vos: ai
+      eles: em
+    er:
+      tu: e
+      ele: a
+      nos: amos
+      vos: ei
+      eles: am
+    ir:
+      tu: e
+      ele: a
+      nos: amos
+      vos: i
+      eles: am
+  negativo:
+    ar:
+      tu: es
+      ele: e
+      nos: emos
+      vos: eis
+      eles: em
+    er:
+      tu: as
+      ele: a
+      nos: amos
+      vos: ais
+      eles: am
+    ir:
+      tu: as
+      ele: a
+      nos: amos
+      vos: ais
+      eles: am
+nominal:
+  infinitivo_pessoal:
+    ar:
+      eu: ar
+      tu: ares
+      ele: ar
+      nos: armos
+      vos: ardes
+      eles: arem
+    er:
+      eu: er
+      tu: eres
+      ele: er
+      nos: ermos
+      vos: erdes
+      eles: erem
+    ir:
+      eu: ir
+      tu: ires
+      ele: ir
+      nos: irmos
+      vos: irdes
+      eles: irem
+  infinitivo_impessoal:
+    - ar
+    - er
+    - ir
+  participio:
+    - ado
+    - ido
+    - ido
+  gerundio:
+    - ando
+    - endo
+    - indo

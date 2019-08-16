@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Linux
+**/bin
+**/lib
+**/share
+**/include
+
+.vscode
+__pycache__
